@@ -1,0 +1,51 @@
+let catalog = [
+  {
+    title: "Orange",
+    category: "fruits",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+  {
+    title: "Celery",
+    category: "vegetables",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+  {
+    title: "Snake",
+    category: "animals",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+  {
+    title: "Orange",
+    category: "",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+  {
+    title: "Orange",
+    category: "fruits",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+  {
+    title: "Orange",
+    category: "fruits",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+  {
+    title: "Orange",
+    category: "fruits",
+    price: 12.99,
+    image: "somewhere",
+    id: "1",
+  },
+];
